@@ -76,7 +76,24 @@
 ## LeetCode Stats
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/bharathS-web?theme=dark&ext=activity" alt="LeetCode stats" />
+<img src="https://leetcard.jacoblin.cool/bharathS-web?theme=dark&ext=heatmap" alt="LeetCode stats" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="70" alt="50 Days Badge 2025" /><br/>
+<sub>50 Days Badge 2025</sub>
+</td>
+<td align="center">
+<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="70" alt="100 Days Badge 2025" /><br/>
+<sub>100 Days Badge 2025</sub>
+</td>
+</tr>
+</table>
+
+**Badges: 2** &nbsp;·&nbsp; **Most Recent: 100 Days Badge 2025**
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
