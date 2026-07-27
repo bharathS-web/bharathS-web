@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Bharath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+with+Machine+Learning;Exploring+Deep+Learning;Full-Stack+Web+Developer;Solving+DSA+on+LeetCode;Welcome+to+my+profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+powered+Application;Exploring+Deep+Learning;Software+Engineer;Solving+DSA+on+LeetCode;Welcome+to+my+profile" alt="Typing SVG" />
 
 <br/>
 
@@ -47,8 +47,6 @@
 
 <br clear="both"/>
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## Tech Stack
@@ -75,8 +73,6 @@
 
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## Featured Repositories
@@ -88,9 +84,8 @@
 | [ML-algo](https://github.com/bharathS-web/ML-algo) | Jupyter Notebook | Implementations of core machine learning algorithms |
 | [DL](https://github.com/bharathS-web/DL) | Jupyter Notebook | Deep learning experiments and notebooks |
 | [full-stack](https://github.com/bharathS-web/full-stack) | JavaScript | End-to-end full-stack web application |
-| [Front-End](https://github.com/bharathS-web/Front-End) | — | Front-end focused UI projects |
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -131,7 +126,6 @@
 **Badges: 2** &nbsp;·&nbsp; **Most Recent: 100 Days Badge 2025**
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
