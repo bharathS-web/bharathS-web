@@ -17,6 +17,17 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=bharathS-web&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/bharathS-web?label=Followers&style=for-the-badge&color=6366F1" />
+<img src="https://img.shields.io/github/stars/bharathS-web?label=Stars&style=for-the-badge&color=22D3EE&affiliations=OWNER" />
+
+<br/><br/>
+
+<a href="#about-me">About</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#featured-repositories">Repositories</a> •
+<a href="#github-stats">GitHub Stats</a> •
+<a href="#leetcode-stats">LeetCode</a> •
+<a href="#contribution-snake">Snake</a>
 
 </div>
 
@@ -35,6 +46,8 @@
 - Reach me on [LinkedIn](https://www.linkedin.com/in/bharaths-web/)
 
 <br clear="both"/>
+
+<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -59,6 +72,23 @@
 
 </div>
 
+<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+## Featured Repositories
+
+| Repository | Stack | Description |
+|---|---|---|
+| [Sketch-based-image-recognition](https://github.com/bharathS-web/Sketch-based-image-recognition) | Jupyter Notebook | Recognizing images from hand-drawn sketches using ML |
+| [data-visualizer](https://github.com/bharathS-web/data-visualizer) | Python | Tool for visualizing datasets |
+| [ML-algo](https://github.com/bharathS-web/ML-algo) | Jupyter Notebook | Implementations of core machine learning algorithms |
+| [DL](https://github.com/bharathS-web/DL) | Jupyter Notebook | Deep learning experiments and notebooks |
+| [full-stack](https://github.com/bharathS-web/full-stack) | JavaScript | End-to-end full-stack web application |
+| [Front-End](https://github.com/bharathS-web/Front-End) | — | Front-end focused UI projects |
+
+<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## GitHub Stats
@@ -70,6 +100,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=bharathS-web&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
+
+<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -95,6 +127,8 @@
 
 **Badges: 2** &nbsp;·&nbsp; **Most Recent: 100 Days Badge 2025**
 </div>
+
+<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
