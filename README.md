@@ -29,7 +29,6 @@
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
 
 - Working on projects in **Machine Learning, Deep Learning & Full-Stack Web Dev**
-- Exploring data visualization, sketch-based image recognition & end-to-end ML pipelines
 - Comfortable across the stack — from data notebooks to front-end UI
 - Sharpening problem-solving on LeetCode — Dynamic Programming, Arrays, Databases
 - Fun fact: I enjoy turning messy data into clean visuals
@@ -42,7 +41,7 @@
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,js,mysql,html,css,git,github&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,py,js,mysql,html,css,git,github,fastapi,sklearn,tensorflow&theme=dark&perline=8" />
 </div>
 
 <br/>
@@ -54,6 +53,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
 </div>
 
