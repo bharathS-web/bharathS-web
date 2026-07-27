@@ -47,14 +47,14 @@
 
 <br clear="both"/>
 
-<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,js,mysql,html,css,git,github,fastapi,sklearn,tensorflow&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,py,react,postgres,git,github,fastapi,sklearn,tensorflow,docker&theme=dark&perline=5" />
 </div>
 
 <br/>
@@ -63,16 +63,19 @@
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -87,7 +90,7 @@
 | [full-stack](https://github.com/bharathS-web/full-stack) | JavaScript | End-to-end full-stack web application |
 | [Front-End](https://github.com/bharathS-web/Front-End) | — | Front-end focused UI projects |
 
-<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -97,11 +100,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathS-web&theme=tokyonight" alt="streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bharathS-web&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=bharathS-web&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -110,7 +113,7 @@
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/bharathS-web?theme=dark&ext=heatmap" alt="LeetCode stats" />
 
-<br/><br/>
+<br/>
 
 <table>
 <tr>
@@ -128,7 +131,7 @@
 **Badges: 2** &nbsp;·&nbsp; **Most Recent: 100 Days Badge 2025**
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath">Back to top</a></div>
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
