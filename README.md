@@ -47,6 +47,8 @@
 
 <br clear="both"/>
 
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## Tech Stack
@@ -73,6 +75,8 @@
 
 </div>
 
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## Featured Repositories
@@ -84,8 +88,9 @@
 | [ML-algo](https://github.com/bharathS-web/ML-algo) | Jupyter Notebook | Implementations of core machine learning algorithms |
 | [DL](https://github.com/bharathS-web/DL) | Jupyter Notebook | Deep learning experiments and notebooks |
 | [full-stack](https://github.com/bharathS-web/full-stack) | JavaScript | End-to-end full-stack web application |
+| [Front-End](https://github.com/bharathS-web/Front-End) | — | Front-end focused UI projects |
 
-
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -94,8 +99,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathS-web&theme=tokyonight" alt="streak stats"/>
-
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=bharathS-web&theme=tokyonight&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -107,25 +110,9 @@
 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/bharathS-web?theme=dark&ext=heatmap" alt="LeetCode stats" />
-
-<br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="70" alt="50 Days Badge 2025" /><br/>
-<sub>50 Days Badge 2025</sub>
-</td>
-<td align="center">
-<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="70" alt="100 Days Badge 2025" /><br/>
-<sub>100 Days Badge 2025</sub>
-</td>
-</tr>
-</table>
-
-**Badges: 2** &nbsp;·&nbsp; **Most Recent: 100 Days Badge 2025**
 </div>
 
+<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
