@@ -124,8 +124,6 @@
 </div>
 <!--END_SECTION:snake-->
 
-> This animated snake needs a one-time GitHub Action setup — see the note below the README.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=120&section=footer"/>
 
 </div>
