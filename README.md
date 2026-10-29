@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Bharath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+powered+Application;Exploring+Deep+Learning;Software+Engineer;Solving+DSA+on+LeetCode;Welcome+to+my+profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+powered+Application;Exploring+Deep+Learning;Software+Engineer;Solving+DSA+on+LeetCode" alt="Typing SVG" />
 
 <br/>
 
