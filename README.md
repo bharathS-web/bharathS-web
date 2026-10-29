@@ -40,8 +40,8 @@
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
 
 - Working on projects in **Machine Learning, Deep Learning & Full-Stack Web Dev**
-- Comfortable across the stack — from data notebooks to front-end UI
-- Sharpening problem-solving on LeetCode — Dynamic Programming, Arrays, Databases
+- Comfortable across the stack - from data notebooks to front-end UI
+- Sharpening problem-solving on LeetCode - Dynamic Programming, Arrays, Databases
 - Fun fact: I enjoy turning messy data into clean visuals
 - Reach me on [LinkedIn](https://www.linkedin.com/in/bharaths-web/)
 
