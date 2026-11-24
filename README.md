@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathS-web&theme=tokyonight" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathS-web&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" alt="GitHub streak" />
 
 </div>
 
