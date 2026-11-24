@@ -83,12 +83,10 @@
 
 | Repository | Stack | Description |
 |---|---|---|
-| [Sketch-based-image-recognition](https://github.com/bharathS-web/Sketch-based-image-recognition) | Jupyter Notebook | Recognizing images from hand-drawn sketches using ML |
-| [data-visualizer](https://github.com/bharathS-web/data-visualizer) | Python | Tool for visualizing datasets |
-| [ML-algo](https://github.com/bharathS-web/ML-algo) | Jupyter Notebook | Implementations of core machine learning algorithms |
-| [DL](https://github.com/bharathS-web/DL) | Jupyter Notebook | Deep learning experiments and notebooks |
-| [full-stack](https://github.com/bharathS-web/full-stack) | JavaScript | End-to-end full-stack web application |
-| [Front-End](https://github.com/bharathS-web/Front-End) | — | Front-end focused UI projects |
+| [Multi-Track-Music-Generation](https://github.com/bharathS-web/Multi-Track-Music-Generation) | Python, PyTorch | Generates piano, guitar and bass together with per-track Mamba, cross-track attention and a learned gate |
+| [Sketch-based-image-recognition](https://github.com/bharathS-web/Sketch-based-image-recognition) | TensorFlow, Keras | Compact CNN that recognises hand-drawn sketches in 50 categories, with a live Streamlit drawing app |
+| [Signature-Image-Cleaning](https://github.com/bharathS-web/Signature-Image-Cleaning) | TensorFlow, Keras | Lightweight U-Net that removes ruled lines, printed text and noise from signature images |
+| [Lane-Detection](https://github.com/bharathS-web/Lane-Detection) | Python, OpenCV | Finds and draws lane lines on dashcam video with Canny edges and a Hough transform |
 
 <div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
