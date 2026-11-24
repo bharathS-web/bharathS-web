@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Hi%20There,%20I'm%20Bharath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20towards%20GenAI&descAlignY=55&descSize=18" width="100%"/>
@@ -51,7 +53,7 @@
 
 <br clear="both"/>
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+<div align="right"><a href="#top"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -85,7 +87,7 @@
 
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+<div align="right"><a href="#top"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -98,7 +100,7 @@
 | [Signature-Image-Cleaning](https://github.com/bharathS-web/Signature-Image-Cleaning) | TensorFlow, Keras | Lightweight U-Net that removes ruled lines, printed text and noise from signature images |
 | [Lane-Detection](https://github.com/bharathS-web/Lane-Detection) | Python, OpenCV | Finds and draws lane lines on dashcam video with Canny edges and a Hough transform |
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+<div align="right"><a href="#top"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
@@ -110,17 +112,17 @@
 
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+<div align="right"><a href="#top"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## LeetCode Stats
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/bharathS-web?theme=dark&ext=heatmap" alt="LeetCode stats" />
+<a href="https://leetcode.com/u/bharathS-web/"><img src="https://leetcard.jacoblin.cool/bharathS-web?colors=1a1b27,24283b,a9b1d6,70a5fd,70a5fd,38bdae,e0af68,f7768e&border=0&radius=10&ext=heatmap&font=Baloo_2" alt="LeetCode stats" /></a>
 </div>
 
-<div align="right"><a href="#hi-there-im-bharath"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
+<div align="right"><a href="#top"><img src="https://img.shields.io/badge/%E2%86%91-Top-6366F1?style=for-the-badge" alt="Back to top" /></a></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
