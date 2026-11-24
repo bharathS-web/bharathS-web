@@ -39,10 +39,11 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
 
-- Working on projects in **Machine Learning, Deep Learning & Full-Stack Web Dev**
-- Comfortable across the stack - from data notebooks to front-end UI
-- Sharpening problem-solving on LeetCode - Dynamic Programming, Arrays, Databases
-- Fun fact: I enjoy turning messy data into clean visuals
+- Associate Software Engineer at **Cogniwide**, with a B.Tech focused on **Artificial Intelligence**
+- I build **deep learning models** (music generation, image cleaning, sketch recognition) and **full-stack web apps**
+- Working towards a career as a **GenAI engineer**, building with LangChain, LangGraph and RAG
+- Sharpening problem-solving on LeetCode - Logics, Arrays, Databases
+- I write about what I build and learn on my [portfolio](https://bharathkumars-web.vercel.app/blog)
 - Reach me on [LinkedIn](https://www.linkedin.com/in/bharaths-web/)
 
 <br clear="both"/>
